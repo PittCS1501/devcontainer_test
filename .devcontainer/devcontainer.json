@@ -1,0 +1,9 @@
+{
+    "name": "PittDSAII",
+    "build": {
+        "dockerfile": "Dockerfile",
+    },
+    "settings": {},
+    "extensions": [],
+    "remoteUser": "vscode"
+}
